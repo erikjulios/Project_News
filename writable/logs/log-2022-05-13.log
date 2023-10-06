@@ -1,0 +1,227 @@
+CRITICAL - 2022-05-13 04:30:59 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:31:08 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:31:18 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:32:11 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:33:34 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:33:47 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:33:48 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:34:16 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:34:24 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 04:53:41 --> Undefined property: App\Controllers\NewsAdmin::$session
+#0 C:\xampp\htdocs\lat_ci\app\Controllers\NewsAdmin.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 96)
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\NewsAdmin->create_contactus()
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NewsAdmin))
+#3 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-13 05:03:43 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:05:08 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:10:25 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:10:37 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('Kemenkes Ungkap...')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:10:48 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:10:53 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:10:56 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:11:00 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:11:02 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('Kemenkes Ungkap...')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:11:29 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('Gejala Hepatiti...')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:12:04 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 05:47:34 --> syntax error, unexpected token "=>", expecting "]"
+#0 C:\xampp\htdocs\lat_ci\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\lat_ci\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-05-13 06:35:54 --> Undefined variable $live
+#0 C:\xampp\htdocs\lat_ci\app\Views\admin_liveupdate.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\lat_ci\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\lat_ci\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\lat_ci\system\Common.php(1089): CodeIgniter\View\View->render('admin_liveupdat...', Array, true)
+#4 C:\xampp\htdocs\lat_ci\app\Controllers\NewsAdmin.php(131): view('admin_liveupdat...', Array)
+#5 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\NewsAdmin->view_liveupdate()
+#6 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NewsAdmin))
+#7 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-05-13 07:08:03 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 07:08:15 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 07:09:05 --> Undefined property: App\Controllers\NewsAdmin::$session
+#0 C:\xampp\htdocs\lat_ci\app\Controllers\NewsAdmin.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 101)
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\NewsAdmin->create_contactus()
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\NewsAdmin))
+#3 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-05-13 07:12:43 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 07:12:53 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 07:45:22 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 08:01:37 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-13 08:01:46 --> Class "Codeigniter\exception\PageNotFoundException" not found
+#0 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(832): App\Controllers\News->viewNews('img', 'favico.png')
+#1 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+#2 C:\xampp\htdocs\lat_ci\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\lat_ci\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\lat_ci\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
